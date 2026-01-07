@@ -12,5 +12,3 @@ GO
 
 ALTER TABLE [Model].[FactSales] ADD  DEFAULT (getdate()) FOR [CreateDate]
 GO
-
-
